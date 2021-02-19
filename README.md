@@ -19,3 +19,5 @@ More information:
 - [Community](http://community.humhub.com/)
 - [Licence](https://www.humhub.com/licences)
 
+Thanks to all our contributors (Names wil be added shortly)
+@Made in CMR by CMR
